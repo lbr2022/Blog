@@ -23,7 +23,7 @@ public class Blog implements Serializable{
 	private Integer replyHit;
 	/**内容*/
 	private String content;
-	/**所属博客类型*/
+	/**所属博客类型 */
 	private BlogType blogType;
 	/**关键字*/
 	private String keyWord;
